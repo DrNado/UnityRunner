@@ -26,4 +26,5 @@ public class CameraController : MonoBehaviour
 
         transform.position = CameraMove;
     }
+    //test
 }
