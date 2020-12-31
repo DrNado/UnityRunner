@@ -7,8 +7,8 @@ public class Score : MonoBehaviour
 {
     private bool MortoT = false;
     private float Placar = 0.0f;
-    private int dificuldadeMin = 300;
-    private int dificuldadeMax = 9000;
+    private int dificuldadeMin = 10;
+    private int dificuldadeMax = 20;
     private int PlacarPraPassar = 10;
     
     public Text scoreT;
